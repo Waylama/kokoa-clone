@@ -1,3 +1,3 @@
-#Koloa Clone
+#Kokoa Clone
 
 HTML & CSS practice
