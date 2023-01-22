@@ -1,3 +1,3 @@
 #Koloa Clone
 
-CSS practice
+HTML & CSS practice
